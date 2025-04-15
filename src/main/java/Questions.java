@@ -9,18 +9,12 @@ public class Questions {
     }
 
     int question2(){
-        /* 
-         * Replace the 0 in the return statement with the answer you believe to be true for the question below
-         * 
-         * What line number represents the end of the "accelerate" method? 
-         */
+       
         return 14;
     }
 
     String question3(){
-        /* 
-         * What datatype is expected to be returned in the "honk" method?
-         */
+        
         return "String";
     }
     
