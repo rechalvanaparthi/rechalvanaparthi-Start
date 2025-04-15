@@ -4,11 +4,7 @@
  */
 public class Questions {
     int question1(){
-        /* 
-         * Replace the 0 in the return statement with the answer you believe to be true for the question below
-         * 
-         * How many variables are in the class "Vehicle"?
-         */
+        
         return 3;
     }
 
